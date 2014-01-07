@@ -2,19 +2,7 @@
 pageable: true
 layout: page
 ---
-.pagination
-  - if next_page
-    = link_to 'Older', next_page
-  %a(href="/archives/") Blog Archives
-  - if prev_page
-    = link_to 'Newer', prev_page
-
-.post-list
-  - page_articles.each_with_index do |article, i|
-    %article(role="article")
-      %header
-        %h1
-          = link_to article.title, article
-        .post-date
-          = article.date.strftime('%B %e, %Y')
-      = article.body
+- pagination_data = { :next_title => 'Older', :next_page => next_page, :prev_title => 'Newer', :prev_page => prev_page }
+= partial "layouts/site/pagination", :locals => pagination_data
+= partial "layouts/site/post-list"
+= partial "layouts/site/pagination", :locals => pagination_data
