@@ -9,9 +9,12 @@ layout: page
   - if prev_page
     = link_to 'Newer', prev_page
 
-- page_articles.each_with_index do |article, i|
-  %h1
-    = link_to article.title, article
-  %p
-    = article.date.strftime('%b %e')
-  = article.body
+.post-list
+  - page_articles.each_with_index do |article, i|
+    %article(role="article")
+      %header
+        %h1
+          = link_to article.title, article
+        .post-date
+          = article.date.strftime('%B %e, %Y')
+      = article.body
