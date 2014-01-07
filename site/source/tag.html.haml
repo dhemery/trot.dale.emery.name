@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
+- title_data = { :title => "Category: #{tagname}", :url => tag_path(tagname) }
 %header
-  %h1
-    = link_to "Category: #{tagname}", tag_path(tagname)
+  = partial "layouts/partials/title", :locals => title_data
 = partial "layouts/site/post-reference-list"
