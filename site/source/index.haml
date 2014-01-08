@@ -1,8 +1,9 @@
 ---
 pageable: true
 layout: page
+per_page: 10
 ---
 - pagination_data = { :next_title => 'Older', :next_page => next_page, :prev_title => 'Newer', :prev_page => prev_page }
 = partial "layouts/partials/pagination", :locals => pagination_data
-= partial "layouts/partials/post-list"
+= partial "layouts/partials/post-list", :locals => { :posts => page_articles }
 = partial "layouts/partials/pagination", :locals => pagination_data
