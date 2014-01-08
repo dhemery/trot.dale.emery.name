@@ -3,7 +3,7 @@ activate :blog do |blog|
   blog.default_extension = ".md"
 
   blog.layout = "post"
-  blog.tag_template = "tag.html"
+  blog.tag_template = "categories.html"
 
   blog.paginate = true
   blog.page_link = "page/{num}"
