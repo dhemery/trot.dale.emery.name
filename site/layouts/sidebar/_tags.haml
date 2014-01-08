@@ -1,0 +1,6 @@
+%section
+  %h1 Tags
+  %ul
+    - blog.tags.sort.each do |tag|
+      %li
+        = link_to tag[0], tag_path(tag[0])

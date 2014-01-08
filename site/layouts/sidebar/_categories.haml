@@ -3,6 +3,6 @@
   %ul
     %li
       = link_to 'All Posts', '/archives/'
-    - blog.tags.sort.each do |tag|
+    - blog.custom_collections.category.sort.each do |category|
       %li
-        = link_to tag[0], tag_path(tag[0])
+        = link_to category[0], category_path(category[0])
