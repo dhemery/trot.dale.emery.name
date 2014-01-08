@@ -3,6 +3,6 @@ pageable: true
 layout: page
 ---
 - pagination_data = { :next_title => 'Older', :next_page => next_page, :prev_title => 'Newer', :prev_page => prev_page }
-= partial "layouts/site/pagination", :locals => pagination_data
-= partial "layouts/site/post-list"
-= partial "layouts/site/pagination", :locals => pagination_data
+= partial "layouts/partials/pagination", :locals => pagination_data
+= partial "layouts/partials/post-list"
+= partial "layouts/partials/pagination", :locals => pagination_data
