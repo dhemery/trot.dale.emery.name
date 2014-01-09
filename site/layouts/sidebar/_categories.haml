@@ -1,6 +1,9 @@
 %section
   %h1 Categories
   %ul
+    %li
+      = link_to "All Posts (#{blog.articles.count})" , '/all-posts.html'
+      
     - blog.tags.sort.each do |category|
       %li
-        = link_to category[0], tag_path(category[0])
+        = link_to "#{category[0]} (#{category[1].count})", tag_path(category[0])

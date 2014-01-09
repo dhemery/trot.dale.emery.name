@@ -8,9 +8,7 @@ activate :blog do |blog|
     blog.tag_template = "categories.html"
     blog.taglink = "tag/:tag/index.html"
 
-    blog.paginate = true
-    blog.page_link = "page/:num"
-    blog.per_page = 10
+    blog.paginate = false
 end
 
 page "/feed.xml", layout: false

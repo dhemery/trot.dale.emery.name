@@ -4,4 +4,4 @@ layout: page
 - title_data = { :title => "Categories: #{tagname}", :url => tag_path(tagname) }
 %header
   = partial "layouts/partials/title", :locals => title_data
-= partial "layouts/partials/post-table", :locals => { :posts => articles }
+= partial "layouts/partials/post-list", :locals => { :posts => articles }
