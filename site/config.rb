@@ -6,7 +6,7 @@ activate :blog do |blog|
     blog.permalink = ":year/:month/:title"
 
     blog.tag_template = "categories.html"
-    blog.taglink = "tag/:tag/index.html"
+    blog.taglink = "catagory/:tag/index.html"
 
     blog.paginate = false
 end
