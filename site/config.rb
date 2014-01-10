@@ -1,5 +1,5 @@
 activate :blog do |blog|
-    blog.sources = "posts/:year-:month-:title"
+    blog.sources = "posts/:year/:month/:title"
     blog.default_extension = ".md"
 
     blog.layout = "post"
