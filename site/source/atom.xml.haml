@@ -1,0 +1,22 @@
+- site_url = "http://#{data.site.domain}/"
+- date_format = ('%Y-%m-%dT%H:%M:%SZ')
+%feed
+  %title= data.site.title
+  %subtitle= data.site.subtitle
+  %link{href: current_page.url, rel: "self"}
+  %link{href: site_url, rel: "alternate"}
+  %id= site_url
+  %updated= blog.articles.first.date.strftime(date_format)
+  %rights= data.site.copyright
+  %author
+    %name= data.site.author.name
+    %email= data.site.author.email
+  - blog.articles[0..10].each do |post|
+    %entry
+      %title= post.title
+      %id= URI.join(site_url, post.url)
+      %link{href: post.url, rel: "alternate"}
+      - post.tags.each do |category|
+        %category{term: category}
+      %updated = post.date.strftime(date_format)
+      %content{type: "xhtml"}= post.body
