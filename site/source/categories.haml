@@ -2,5 +2,5 @@
 layout: page
 ---
 %header
-  = partial "layouts/title", locals: {title: "Categories: #{tagname}", :url => tag_path(tagname)}
+  = partial "layouts/title", locals: {title: "Category: #{tagname}", :url => tag_path(tagname)}
 = partial "layouts/blog/index", locals: {url: tag_path(tagname), posts: articles }
