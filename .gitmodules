@@ -4,3 +4,6 @@
 [submodule "den.domain"]
 	path = den.domain
 	url = git@github.com:dhemery/den.domain
+[submodule "dogger"]
+	path = dogger
+	url = git@github.com:dhemery/dogger
