@@ -1,6 +1,10 @@
-$common_dir = 'diddleman'
-$domain_dir = 'den.domain'
-$site_dir = 'site'
+$builder = {
+    root: 'diddleman',
+    modules: {
+        domain: 'den.domain',
+        site: 'site'
+    }
+}
 
-import File.join($common_dir, 'Rakefile')
+import File.join($builder[:root], 'Rakefile')
 
