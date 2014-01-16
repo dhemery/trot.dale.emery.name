@@ -1,0 +1,15 @@
+title: Twelfth Root of Two
+subtitle: dale.emery sidesteps destiny
+shortname: trot
+domain: trot.dale.emery.name
+timezone: Pacific Time (US & Canada)
+post_pattern: posts/:year/:month/:title
+copyright: 2003&#8211;2014 Dale H. Emery
+author:
+  name: Dale H. Emery
+  email: dale@dhemery.com
+modules:
+- diddleman
+- den.domain
+- dogger
+- site
