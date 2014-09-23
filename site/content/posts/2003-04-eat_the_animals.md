@@ -10,7 +10,7 @@ published: true
 layout: post
 ---
 
-<p> You can listen to an mp3 of <em>Eat the Animals</em> on my <a href="http://www.dale.emery.name/songs.html#eat-the-aminals">Songs</a> page. </p>
+<p> You can listen to an mp3 of <em>Eat the Animals</em> on my <a href="http://dale.emery.name/songs/#eat-the-aminals">Songs</a> page. </p>
 <p>
 <strong>Songwriting</strong>
 </p>

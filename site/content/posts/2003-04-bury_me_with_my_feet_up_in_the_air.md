@@ -10,7 +10,7 @@ published: true
 layout: post
 ---
 
-<p> You can listen to an mp3 of <em>Bury Me</em> on my <a href="http://www.dale.emery.name/songs.html#bury-me">Songs</a> page. There's also a link to a delightful graphic by my friend <del>Suzi Landoni</del> Suzanne Landon. </p>
+<p> You can listen to an mp3 of <em>Bury Me</em> on my <a href="http://dale.emery.name/songs/#bury-me">Songs</a> page. There's also a link to a delightful graphic by my friend <del>Suzi Landoni</del> Suzanne Landon. </p>
 <p>
 <strong>Songwriting.</strong>
 <em>Words and music</em>: Dale Emery. </p>

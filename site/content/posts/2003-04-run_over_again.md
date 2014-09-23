@@ -10,7 +10,7 @@ published: true
 layout: post
 ---
 
-<p> You can listen to an mp3 of <em>Run Over Again</em> on my <a href="http://www.dale.emery.name/songs.html#run-over-again">Songs</a> page. </p>
+<p> You can listen to an mp3 of <em>Run Over Again</em> on my <a href="http://dale.emery.name/songs/#run-over-again">Songs</a> page. </p>
 <p>
 <strong>Songwriting.</strong>
 <em>Words and Music</em>: Dale Emery </p>

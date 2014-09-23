@@ -10,7 +10,7 @@ published: true
 layout: post
 ---
 
-<p> Here's another fun tune from Tt&#239;mm and me, called "Brainwave Surfin'." I've posted an  <a href="http://www.dale.emery.name/songs.html#brainwave-surfin">mp3 version</a> on my <a href="http://www.dale.emery.name/songs.html">Songs page</a> for your listening pleasure. </p>
+<p> Here's another fun tune from Tt&#239;mm and me, called "Brainwave Surfin'." I've posted an  <a href="http://dale.emery.name/songs/#brainwave-surfin">mp3 version</a> on my <a href="http://dale.emery.name/songs/">Songs page</a> for your listening pleasure. </p>
 <p>
 <strong>Songwriting</strong>
 <ul>

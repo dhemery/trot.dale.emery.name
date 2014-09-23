@@ -10,7 +10,7 @@ published: true
 layout: post
 ---
 
-<p> Listen to <a href="http://www.dale.emery.name/songs.html#sugar-sugar">Sugar, Sugar</a> on my <a href="http://www.dale.emery.name/songs.html">Songs page</a>. </p>
+<p> Listen to <a href="http://dale.emery.name/songs/#sugar-sugar">Sugar, Sugar</a> on my <a href="http://dale.emery.name/songs/">Songs page</a>. </p>
 <p>
 <strong>Songwriting</strong>
 <ul>
@@ -34,7 +34,7 @@ layout: post
 </ul>
 </p>
 <p>
-<strong>The Story.</strong> One day in 1982 or so, John Gagne came to Tt&#239;mm's house (where I was also living) for a visit.  Tt&#239;mm popped a tape of our latest recording, "<a href="http://www.dale.emery.name/trot/2003/07/king_of_time.html">King of Time</a>," into the stereo.  John burst out laughing every time he heard "If you want to be the king, then you'll have to bash me right out of time." </p>
+<strong>The Story.</strong> One day in 1982 or so, John Gagne came to Tt&#239;mm's house (where I was also living) for a visit.  Tt&#239;mm popped a tape of our latest recording, "<a href="http://trot.dale.emery.name/2003/07/king_of_time/">King of Time</a>," into the stereo.  John burst out laughing every time he heard "If you want to be the king, then you'll have to bash me right out of time." </p>
 <p> That inspired John, so we retired to the music room to play some tunes.  Though John is a damned good guitar player, he was fatally attracted to this cheesy keyboard that Tt&#239;mm or I had bought.  He turned it on and started playing what I suspect is one of the only songs he knows how to play on keyboards: "Sugar, Sugar," by the 1960s supergroup The Archies. </p>
 <p> I grabbed my guitar and Tt&#239;mm grabbed a bass, and we started playing along.  Somewhere in the middle of all this, Scott dropped by and joined in on drums.  Someone said, "Hey, we oughtta record this." </p>
 <p> John, realizing just a little too slowly the implications of what had just been said, turned for the door.  "Gotta go!"  Not so fast, fella!  We bound his feet with baling wire, duct taped him to a chair in front of the cheesy keyboard, and rolled tape.  John struggled to get free, but we'd used nasty kidnapper knots so that the more he struggled, the tighter the knots tightened.  He found to his horror that the only way he could relax the knots was by playing "Sugar, Sugar." </p>

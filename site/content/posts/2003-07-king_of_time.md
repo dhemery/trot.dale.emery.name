@@ -11,7 +11,7 @@ layout: post
 ---
 
 <p> I've posted mp3s of <em>
-<a href="http://www.dale.emery.name/songs.html#king-of-time">King of Time</a>
+<a href="http://dale.emery.name/songs/#king-of-time">King of Time</a>
 </em> on my Songs page. </p>
 <p>
 <strong>Songwriting.</strong>

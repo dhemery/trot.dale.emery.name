@@ -9,6 +9,7 @@ author:
   name: Dale H. Emery
   email: dale@dhemery.com
 modules:
+- dale.site.style
 - den.domain
 - dogger
 - site
