@@ -7,9 +7,4 @@ post_pattern: posts/:year-:month-:title
 copyright: 2003&#8211;2014 Dale H. Emery
 author:
   name: Dale H. Emery
-  email: dale@dhemery.com
-modules:
-- dale.site.style
-- den.domain
-- dogger
-- site
+  mail: dale@dhemery.com
