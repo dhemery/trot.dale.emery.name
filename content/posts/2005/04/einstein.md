@@ -4,7 +4,7 @@ tags:
 date: "2005-04-13"
 
 
-title: Einstein Said &#8230;
+title: Einstein Said…
 comments: true
 published: true
 layout: post

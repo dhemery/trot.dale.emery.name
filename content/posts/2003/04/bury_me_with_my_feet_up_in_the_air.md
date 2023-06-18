@@ -18,7 +18,7 @@ layout: post
 <strong>Performance.</strong>
 <em>All vocals, all guitars, bass, drum programming</em>: Dale Emery. </p>
 <p>
-<strong>The Story.</strong> I wrote <em>Bury Me</em> around 1976, when I was 17. My friend Ttimm Roy recorded a Ttimm-o-phonic version in 1979 on his sophomore album <em>Taxi to Portland</em> (now out of print, I'm sad to say). I recorded <em>Bury Me</em> in November 2001, then re-recorded lots of the parts in June 2002, after I'd bought a better microphone and written a better bass line. </p>
+<strong>The Story.</strong> I wrote <em>Bury Me</em> around 1976, when I was 17. My friend Ttïmm Roy recorded a Ttïmm-o-phonic version in 1979 on his sophomore album <em>Taxi to Portland</em> (now out of print, I'm sad to say). I recorded <em>Bury Me</em> in November 2001, then re-recorded lots of the parts in June 2002, after I'd bought a better microphone and written a better bass line. </p>
 <p>
 <strong>Instruments</strong>
 </p>
@@ -39,6 +39,6 @@ layout: post
 <li>Recorded on a Roland VS-1680 Digital Studio Workstation. </li>
 <li>"Rhythm" guitar and drums 	recorded direct to the VS-1680. </li>
 <li>Lead guitar and bass guitar 	played through Rocktron VooduValve preamplifier; 	Rocktron Velocity 120 power amplifier; 	Marshall 4x12 speaker cabinet. </li>
-<li>Vocals, lead guitar, and bass guitar 	recorded through R&#248;de NT1000 microphone; 	PreSonus Blue Tube microphone preamplifier; 	PreSonus Blue Max compressor. </li>
+<li>Vocals, lead guitar, and bass guitar 	recorded through Røde NT1000 microphone; 	PreSonus Blue Tube microphone preamplifier; 	PreSonus Blue Max compressor. </li>
 <li>Mastered using Sonic Foundry Sound Forge 6.0 software. </li>
 </ul>

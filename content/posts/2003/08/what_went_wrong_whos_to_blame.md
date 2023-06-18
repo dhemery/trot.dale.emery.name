@@ -4,7 +4,7 @@ tags:
 date: "2003-08-15"
 
 
-title: What Went Wrong?  Who&#8217;s to Blame?
+title: What Went Wrong?  Who's to Blame?
 comments: true
 published: true
 layout: post

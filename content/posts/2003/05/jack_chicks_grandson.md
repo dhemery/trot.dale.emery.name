@@ -4,7 +4,7 @@ tags:
 date: "2003-05-06"
 
 
-title: Jack Chick&#8217;s Grandson
+title: Jack Chick's Grandson
 comments: true
 published: true
 layout: post

@@ -38,8 +38,8 @@ layout: post
 <p>
 <strong>The Story.</strong>
 <em>Planet of My Own</em> marks the first time Scott and I collaborated writing a song. I had written the first verse and the chorus a year or two earlier, in 1981 or so. I was stuck, as I often am, so Scott decided to write a few more verses. His Venus and Saturn lyrics were just what the lonely planeteer ordered. </p>
-<p> This is also another first&#8212;the first of many songs we recorded in Ttimm Roy's basement. Ttimm had recently moved into the house, and the basement was unfinished. I think there was a pile of firewood (left over from the previous owners) beside the drumset. </p>
-<p> A final first&#8212;this is the first song we recorded with drums. Ttimm had bought a drum set (at a yard sale, I think) for $35. We used this set for a bunch of songs, and it always sounded great. </p>
+<p> This is also another first—the first of many songs we recorded in Ttïmm Roy's basement. Ttïmm had recently moved into the house, and the basement was unfinished. I think there was a pile of firewood (left over from the previous owners) beside the drumset. </p>
+<p> A final first—this is the first song we recorded with drums. Ttïmm had bought a drum set (at a yard sale, I think) for $35. We used this set for a bunch of songs, and it always sounded great. </p>
 <p> There's no bass on this song. I don't miss it. </p>
 <p>
 <strong>Instruments</strong>
@@ -53,7 +53,7 @@ layout: post
 </ul>
 <ul>
 <li>
-<em>Drums:</em>     Ttimm's $35 yard sale set. </li>
+<em>Drums:</em>     Ttïmm's $35 yard sale set. </li>
 </ul>
 </p>
 <p>

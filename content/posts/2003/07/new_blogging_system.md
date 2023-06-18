@@ -15,6 +15,6 @@ layout: post
 <a href="http://www.dhemery.com/journal/index.html">Conversations with Dale</a>
 </em>), I want to make sure it works here on my not-so-serious blog, <em>Twelfth Root of Two</em>. </p>
 <p>
-<strong>I'd like your help</strong> to make sure it works. One of my goals is for everything to look the same as it did before. (Well, <em>almost</em> the same &#8212; see below.) So please poke around a bit, to make sure everything looks right. </p>
+<strong>I'd like your help</strong> to make sure it works. One of my goals is for everything to look the same as it did before. (Well, <em>almost</em> the same — see below.) So please poke around a bit, to make sure everything looks right. </p>
 <p> I'm especially eager to learn whether the commenting system works correctly. Please test that by adding a comment or two. If you find an interesting entry that you want to comment about, do that. Otherwise, just post a comment for this entry, and let me know that you're "just testing." I'll remove the "just testing" comments later. </p>
-<p> There is one thing that I want to look different. The pages that show multiple entries &#8212; the home page and the archive pages &#8212; now show <em>summaries</em> instead of full entries. I'm not sure yet whether I will prefer this. Let me know what you think. </p>
+<p> There is one thing that I want to look different. The pages that show multiple entries — the home page and the archive pages — now show <em>summaries</em> instead of full entries. I'm not sure yet whether I will prefer this. Let me know what you think. </p>

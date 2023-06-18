@@ -4,7 +4,7 @@ tags:
 date: "2003-06-02"
 
 
-title: Gilbert O&#8217;Mercury
+title: Gilbert O'Mercury
 comments: true
 published: true
 layout: post

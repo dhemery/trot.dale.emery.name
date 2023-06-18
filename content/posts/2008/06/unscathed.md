@@ -9,9 +9,9 @@ published: true
 
 I really thought we were going to get through the day unscathed.
 Even after hearing the early news from Australia
-&#8212;
+—
 which I admit did keep me awake last night
-&#8212;
+—
 thought we were probably okay.
 And then I read
 [Richard's reassuring observations](http://www.underpope.com/blogonomicon/2008/06/13/the-zombie-menace-in-sacramento/)
@@ -24,9 +24,9 @@ and I know that's just not fair.
 When I hear about the devastation in other parts of the world, I'm grateful that I live in Sacramento.
 
 The thing is, I don't know what it is about Sacramento that keeps us safe
-&#8212;
+—
 _relatively_ safe
-&#8212;
+—
 from zombies
 And that's exactly what worries me.
 I'm hoping it's the heat that keeps them away.
@@ -74,9 +74,9 @@ and they said they'd send someone right over.
 The goat was still bashing against the fence,
 but by now it had stopped lowering its head.
 Every time it hit the fence it let out this horrible bleat that
-&#8212;
+—
 I kid you not
-&#8212;
+—
 sounded like a human being shouting _braaaaaaains_.
 Bashing and bleating, bleating and bashing.
 At one point it caught its leg in our lovely bench

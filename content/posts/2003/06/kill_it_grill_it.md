@@ -2,12 +2,7 @@
 tags:
 - My Day
 date: "2003-06-10"
-
-
-title: Kill It &amp; Grill It
-comments: true
-published: true
-layout: post
+title: Kill It & Grill It
 ---
 
 <p> I went to Borders on Friday to buy some business stuff and the <em>Animatrix DVD</em>. The parking lot was kinda full, which is odd for mid-afternoon. </p>

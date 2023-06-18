@@ -4,7 +4,7 @@ tags:
 date: "2003-12-19"
 
 
-title: No More &quot;Congresswomen!&quot;
+title: No More "Congresswomen"
 comments: true
 published: true
 layout: post

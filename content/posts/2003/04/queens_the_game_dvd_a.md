@@ -4,7 +4,7 @@ tags:
 date: "2003-04-01"
 
 
-title: Queen&#8217;s &#8216;The Game&#8217; DVD-A
+title: Queen's "The Game" DVD-A
 comments: true
 published: true
 layout: post
