@@ -1,0 +1,10 @@
+@import "dracula.css";
+@import "blog.css";
+
+:root {
+	--_hue: 180;
+
+	--brand-color: hsl(var(--_hue) 100% 20%);
+	--on-brand-color: hsl(var(--_hue) 5% 98.5%);
+	--exhibit-background-color: hsl(var(--_hue) 30% 95%);
+}

@@ -1,0 +1,6 @@
+[submodule "dale-hugo-theme"]
+	path = dale-hugo-theme
+	url = git@github.com:dhemery/dale-hugo-theme
+[submodule "themes/dale"]
+	path = themes/dale
+	url = git@github.com:dhemery/dale-hugo-theme

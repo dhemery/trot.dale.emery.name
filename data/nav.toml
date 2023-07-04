@@ -1,0 +1,15 @@
+[[link]]
+title = 'Latest'
+url = '/'
+
+[[link]]
+title = 'All'
+url = '/posts/'
+
+[[link]]
+title = 'Tags'
+url = '/tags/'
+
+[[link]]
+title = 'Dale'
+url = 'https://dale.emery.name'
